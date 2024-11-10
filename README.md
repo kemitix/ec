@@ -1,2 +1,2 @@
 # ec
-Everybody Code
+Everybody Codes
